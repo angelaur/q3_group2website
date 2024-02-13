@@ -1,0 +1,27 @@
+img {
+    align-content: left;
+}
+
+h1 {text-align: center;
+    color:#34495E;
+
+}
+
+h2 {text-align: left    ;
+    color:#34495E;
+
+}
+h3 {text-align: right;
+    color:#34495E;
+    margin: 0;}
+
+h4 {text-align: right;}
+
+
+body {
+    text-align: center;
+    color:#E3DEDC;
+    margin: 30;
+    padding: 0px;
+    background-repeat: no-repeat ;
+}
