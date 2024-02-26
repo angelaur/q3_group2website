@@ -1,16 +1,14 @@
-img {
-    align-content: center;
-}
-
-
-h2 { 
-   color: #34495E;
-}
 
 body {
     text-align: center;
     color:#E3DEDC;
-    margin: 100px;
+    margin: 50px;
     padding: 0px;
     background-repeat: no-repeat ;
+}
+
+
+h2 {  text-align: center;
+    color:#34495E;
+
 }

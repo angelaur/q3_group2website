@@ -1,11 +1,14 @@
 img {
-    align-content: right;
+    align-content: center;
 }
+ 
 
-
+h2 { 
+    color: #34495E;
+ }
 
 body {
-    text-align: center;
+    text-align: left;
     color:#E3DEDC;
     margin: 100px;
     padding: 0px;
